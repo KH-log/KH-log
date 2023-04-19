@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <!--Introduce-->
 ### 😎 Introduction
-Hi,   
-I am conducting various studies for "healthy human life"" through various **"RAW DATA"**. 
+
+Hi, I am conducting various studies for "healthy human life"" through various **"RAW DATA"**. 
 
 Also, I enjoy deriving insights through various technologies such as **Statistical Analysis**, **Machine Learning**, and **Deep Learning**.
 <br/><br/>
