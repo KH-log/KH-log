@@ -32,6 +32,11 @@ Skills used in the analysis.
 
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 <br/><br/>
+
+### 📖 STUDYING
+
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<br/><br/>
  
 ### 💪 Github Stats
 [![HYEON GitHub stats](https://github-readme-stats.vercel.app/api?username=KH-log&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
