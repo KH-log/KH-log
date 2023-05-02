@@ -37,8 +37,5 @@ Skills used in the analysis.
 
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 <br/><br/>
- 
-### 💪 Github Stats
-[![HYEON GitHub stats](https://github-readme-stats.vercel.app/api?username=KH-log&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKH-log&count_bg=%233776AB&title_bg=%2388B5DB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/KH-log)
